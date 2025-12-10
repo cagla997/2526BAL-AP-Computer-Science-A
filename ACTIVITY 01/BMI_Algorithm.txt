@@ -1,0 +1,16 @@
+STEP 1 - START
+STEP 2 - Print "Enter your body mass in kilograms:"
+STEP 3 - Declare a variable to scan body mass. (kilo)
+STEP 4 - Print " Enter your height in meters:"
+STEP 5 - Declare a variable to scan height. (boy)
+STEP 6 - Calculate BMI = kilo / (boy*boy)
+STEP 7 - If BMI < 18.5 go to STEP 8 else STEP 9
+STEP 8 - Print "Thin" and go to STEP 16
+STEP 9 - If BMI < 25.0 go to STEP 10 else STEP 11
+STEP 10 - Print "Healthy" and go to STEP 16
+STEP 11 - If BMI < 30.0 go to STEP 12 else STEP 13
+STEP 12 - Print "Fat" and go to STEP 16
+STEP 13 - If BMI < 35.0 go to STEP 14 else STEP 15
+STEP 14 - Print "Obese" and go to STEP 16
+STEP 15 - Print "Morbidly Obese"
+STEP 16 - STOP
