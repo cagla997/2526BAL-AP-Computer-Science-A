@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Sayfa -1" id="K9t-_LdF0DGC5qdKx3J1">
+    <mxGraphModel dx="4168" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-3" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="START" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-5" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Enter the bill in TL:&quot;" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-7" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-4" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#fad7ac;strokeColor=#b46504;" value="bill" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-9" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Enter your tip in TL:&quot;" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-12" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-8" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#fad7ac;strokeColor=#b46504;" value="tip" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-14" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Enter the amount paid in TL:&quot;" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-17" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-13" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#fad7ac;strokeColor=#b46504;" value="payment" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-18" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" value="total = bill + tip" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-20" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" value="change = payment - total" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-22" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-24" connectable="0" parent="-hiTC10LWPDZoG1WrLR_-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="True" vertex="1">
+          <mxGeometry relative="1" x="-0.065" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-19" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="change&amp;lt;0" vertex="1">
+          <mxGeometry height="100" width="100" x="360" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-41" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="1704" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Underpayment amount:&quot; + change" vertex="1">
+          <mxGeometry height="70" width="130" x="345" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-25" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="change==0" vertex="1">
+          <mxGeometry height="100" width="100" x="580" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-26" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-27" connectable="0" parent="-hiTC10LWPDZoG1WrLR_-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="False" vertex="1">
+          <mxGeometry relative="1" x="-0.13" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-28" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;We would like to thank you for your payment and state that we will be happy to host you again&quot;" vertex="1">
+          <mxGeometry height="100" width="170" x="545" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-29" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-30" connectable="0" parent="-hiTC10LWPDZoG1WrLR_-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="True" vertex="1">
+          <mxGeometry relative="1" x="-0.2492" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-35" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-hiTC10LWPDZoG1WrLR_-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-31" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Changes:&quot; + change" vertex="1">
+          <mxGeometry height="60" width="100" x="790" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-32" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" value="&lt;div&gt;p200 = change/200&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;change -= p200*200&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;p100 = change/100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;change -= p100*100&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;p50 = change/50&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;change -= p50*50&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;p20 = change/20&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;change -= p20*20&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;p10 = change/10&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;change -= p10*10&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;p5 = change/5&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;change -= p5*5&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;p1 = change&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="170" x="790" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-39" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-hiTC10LWPDZoG1WrLR_-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-36" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;Minimum Amount of Payment:&quot;" vertex="1">
+          <mxGeometry height="60" width="100" x="750" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-37" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-38" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#b1ddf0;strokeColor=#10739e;" value="&quot;200: &quot; + p200&lt;div&gt;&quot;100:&quot; + p100&lt;/div&gt;&lt;div&gt;&quot;50:&quot; + p50&lt;/div&gt;&lt;div&gt;&quot;20:&quot; + p20&lt;/div&gt;&lt;div&gt;&quot;10:&quot; + p10&lt;/div&gt;&lt;div&gt;&quot;5:&quot; + p5&lt;/div&gt;&lt;div&gt;&quot;1:&quot; + p1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="130" x="735" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-40" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="STOP" vertex="1">
+          <mxGeometry height="100" width="100" x="480" y="1654" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-42" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hiTC10LWPDZoG1WrLR_-43" edge="1" parent="1" source="-hiTC10LWPDZoG1WrLR_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="-hiTC10LWPDZoG1WrLR_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
