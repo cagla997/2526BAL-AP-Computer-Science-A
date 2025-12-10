@@ -1,0 +1,29 @@
+STEP 1 - START
+STEP 2 - Print "Enter the bill in TL:"
+STEP 3 - Declare a variable to scan the bill. (bill)
+STEP 4 - Print "Enter your tip in TL:"
+STEP 5 - Declare a variable to scan the tip. (tip) 
+STEP 6 - Print Enter the amount paid in TL::"
+STEP 7 - Declare a variable to scan the paid amount. (payment) 
+STEP 8 - Calculate total = bill + tip;
+STEP 9 - Calculate change = payment - total;
+STEP 10 - If change<0 go to STEP 11 else STEP 14
+STEP 11 - Print "Underpayment amount:" + change and go to STEP 29
+STEP 12 - If change=0 go to STEP 13 else STEP 14
+STEP 13 - Print "We would like to thank you for your payment and state that we will be happy to host you again" and go to STEP 29
+STEP 14 - Print "Changes:" + change
+STEP 15 - p200 = change/200
+STEP 16 - change -= p200*200
+STEP 17 - p100 = change/100
+STEP 18 - change -= p100*100
+STEP 19 - p50 = change/50
+STEP 20 - change -= p50*50
+STEP 21 - p20 = change/20
+STEP 22 - change -= p20*20
+STEP 23 - p10 = change/10
+STEP 24 - change -= p10*10
+STEP 25 - p5 = change/5
+STEP 26 - change -= p5*5
+STEP 27 - p1 = change
+STEP 28 - Print "Minimum Amount of Payment:" + "200: " + p200 + "100: " + p100 + "50: " + p50 + "20: " + p20 + "10: " + p10 + "5: " + p5 + "1: " + p1
+STEP 29 - STOP
