@@ -1,0 +1,18 @@
+STEP 1 - START
+STEP 2 - Print "Enter your GPA:"
+STEP 3 - Declare a variable to scan gpa. (gpa)
+STEP 4 - Print "Enter the number of your weak grades:"
+STEP 5 - Declare a variable to scan weak grades. (weakGrade) 
+STEP 6 - If weakGrade < 0 go to STEP 7 else STEP 12
+STEP 7 - If gpa>=50 go to STEP 8 else STEP 9
+STEP 8 - Print "Passed the class" and go to STEP 18
+STEP 9 - If gpa>=25 go to STEP 10 else STEP 11
+STEP 10 - Print "Take GPA exam" and go to STEP 18
+STEP 11 - Print "Passed the class" and go to STEP 18
+STEP 12 - If gpa>=85 go to STEP 13 else STEP 14
+STEP 13 - Print "Certificate of High Achievement" and go to STEP 18
+STEP 14 - If gpa>=70 go to STEP 15 else STEP 16
+STEP 15 - Print "Certificate of Achievement" and go to STEP 18
+STEP 16 - If gpa>=50 go to STEP 17 else STEP 18
+STEP 17 - Print "Passed the class" and go to STEP 18
+STEP 18 - STOP
