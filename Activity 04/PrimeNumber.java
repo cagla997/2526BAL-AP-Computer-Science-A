@@ -19,13 +19,13 @@ public class AsalSayi {
 		
 		
 		
-		for (int num = s1; num <= s2; num++) { //num kullanıcının verdiği değerler arasındaki sayılar
+		for (int num = s1; num <= s2; num++) { 
 			boolean asal = true;
 			if (num <= 1) {
 				asal = false;
 			}
 			else
-				for (int i = 2; i < num; i++) { //i bölünüyor mu diye kontrol ettiğimiz sayılar
+				for (int i = 2; i < num; i++) { 
 					if (num % i == 0) {
 						asal = false;
 					}
